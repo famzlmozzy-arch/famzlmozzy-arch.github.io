@@ -1,1 +1,0 @@
-# famzlmozzy-arch.github.io
