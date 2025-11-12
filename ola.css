@@ -6,6 +6,9 @@ footer {
     text-align: center;
     padding: 3px;
     color: #ffffff;
+    left: 28.5%;
+    bottom: -650px;
+    position:fixed;
 }
 
 .bold {
@@ -13,10 +16,8 @@ footer {
     text-align: center;
     background-color: crimson;
     padding: 10px;
-    bottom: -650px;
     position: absolute;
     justify-content: center;
-    left: 28.5%;
 }
 
 .boldn {
